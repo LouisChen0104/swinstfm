@@ -1,5 +1,8 @@
-# SwinStfm
+# SwinSTFM
 Code of SwinSTFM: Remote Sensing Spatiotemporal Fusion using Swin Transformer
+
+# Environment
+`pip install -r requirements.txt`
 
 # Dataset Directory 
 `datasets/dataset_directory.png`
@@ -13,7 +16,4 @@ Code of SwinSTFM: Remote Sensing Spatiotemporal Fusion using Swin Transformer
 # Testing
 `python test.py`
 
-
 You could download the model pretrained on LGC from here: https://drive.google.com/file/d/1GkwhIzIPUl3q85NKZMLW3jW4DxqG_GSG/view?usp=sharing.
-
-The code will be released after the paper is published.
