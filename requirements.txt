@@ -1,0 +1,7 @@
+numpy==1.21.2
+opencv_contrib_python==4.5.5.62
+rasterio==1.2.10
+sewar==0.4.4
+timm==0.5.4
+torch==1.10.2
+tqdm==4.63.0
