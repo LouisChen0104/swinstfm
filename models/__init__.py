@@ -1,0 +1,1 @@
+from .swinstfm import SwinSTFM
